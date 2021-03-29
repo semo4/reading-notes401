@@ -3,4 +3,4 @@
 ![images](images/Checklist.jpg)
 # Table Of Content:
 
-- [RESPONSIVE WEB DESIGN and FLOATS](class-01)
+- [Java Basics](class-01)

@@ -4,3 +4,5 @@
 # Table Of Content:
 
 - [Java Basics](class-01)
+- [Arrays, Loops, Imports](class-02)
+

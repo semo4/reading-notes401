@@ -9,6 +9,7 @@
 - [Maps, primitives, File I/O](class-03)
 - [OOP](class-04)
 - [Linked Lists](class-05)
+- [Inheritance and Interfaces](class-06)
 
 
 

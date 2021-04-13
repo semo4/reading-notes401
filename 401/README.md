@@ -11,6 +11,8 @@
 - [Linked Lists](class-05)
 - [Inheritance and Interfaces](class-06)
 - [SOLID](class-08)
+- [WRRC and Java](class-09)
+
 
 
 

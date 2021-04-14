@@ -12,6 +12,9 @@
 - [Inheritance and Interfaces](class-06)
 - [SOLID](class-08)
 - [WRRC and Java](class-09)
+- [Stacks & Queues](class-10)
+
+
 
 
 

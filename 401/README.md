@@ -14,6 +14,8 @@
 - [WRRC and Java](class-09)
 - [Stacks & Queues](class-10)
 - [Spring](class-11)
+- [Spring RESTful Routing & Static Files](class-12)
+
 
 
 

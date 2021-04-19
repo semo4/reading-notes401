@@ -15,6 +15,8 @@
 - [Stacks & Queues](class-10)
 - [Spring](class-11)
 - [Spring RESTful Routing & Static Files](class-12)
+- [Related Resources and Integration Testing](class-13)
+
 
 
 

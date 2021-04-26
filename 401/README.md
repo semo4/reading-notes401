@@ -18,6 +18,8 @@
 - [Related Resources and Integration Testing](class-13)
 - [Trees](class-14)
 - [Spring Authentication](class-16)
+- [Spring Authorization](class-17)
+
 
 
 

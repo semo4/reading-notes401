@@ -25,15 +25,16 @@
 - class_enrollment. It stores two columns: one for each of the primary keys from the other table.
 
 #### class_enrollment
+
 | Student ID      | Class ID |
 | ----------- | ----------- |
-| 1      | 3       |
-| 1   | 5        |
-| 1      | 9      |
-| 2   | 1        |
-| 2      | 4       |
-| 2  | 5        |
-| 2     | 9       |
+| 1   | 3     |
+| 1   | 5     |
+| 1   | 9     |
+| 2   | 1     |
+| 2   | 4     |
+| 2   | 5     |
+| 2   | 9     |
 
 #### Student:
 

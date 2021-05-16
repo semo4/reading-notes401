@@ -22,6 +22,8 @@
 - [Web App Security](class-18)
 - [Spring and Sockets](class-19)
 - [Android Fundamentals](class-26)
+- [Intents, Activities, and SharedPreferences](class-27)
+
 
 
 

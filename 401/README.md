@@ -24,6 +24,8 @@
 - [Android Fundamentals](class-26)
 - [Intents, Activities, and SharedPreferences](class-27)
 - [RecyclerView](class-28)
+- [Room](class-29)
+
 
 
 

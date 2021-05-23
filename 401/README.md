@@ -27,6 +27,8 @@
 - [Room](class-29)
 - [Hash Tables](class-30)
 - [Espresso](class-31)
+- [Serverless and Amplify](class-32)
+
 
 
 

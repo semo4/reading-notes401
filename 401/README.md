@@ -29,6 +29,8 @@
 - [Espresso](class-31)
 - [Serverless and Amplify](class-32)
 - [GraphQL @connection](class-33)
+- [Graph](class-34)
+
 
 
 

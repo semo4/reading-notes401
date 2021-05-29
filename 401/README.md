@@ -30,6 +30,11 @@
 - [Serverless and Amplify](class-32)
 - [GraphQL @connection](class-33)
 - [Graph](class-34)
+- [Amplify with Cognito for Login](class-35)
+
+
+
+
 
 
 

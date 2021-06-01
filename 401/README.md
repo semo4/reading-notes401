@@ -32,6 +32,8 @@
 - [Graph](class-34)
 - [Amplify with Cognito for Login](class-35)
 - [Cognito](class-36)
+- [S3](class-37)
+
 
 
 

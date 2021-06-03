@@ -33,6 +33,8 @@
 - [Amplify with Cognito for Login](class-35)
 - [Cognito](class-36)
 - [S3](class-37)
+- [Notifications](class-38)
+
 
 
 

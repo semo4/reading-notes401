@@ -34,6 +34,8 @@
 - [Cognito](class-36)
 - [S3](class-37)
 - [Notifications](class-38)
+- [Intent Filters](class-41)
+
 
 
 

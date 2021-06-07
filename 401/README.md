@@ -35,6 +35,8 @@
 - [S3](class-37)
 - [Notifications](class-38)
 - [Intent Filters](class-41)
+- [Location](class-42)
+
 
 
 

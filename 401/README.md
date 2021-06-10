@@ -36,6 +36,8 @@
 - [Notifications](class-38)
 - [Intent Filters](class-41)
 - [Location](class-42)
+- [Ethics in Tech](class-43)
+
 
 
 
